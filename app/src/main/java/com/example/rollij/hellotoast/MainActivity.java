@@ -1,7 +1,6 @@
 package com.example.rollij.hellotoast;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
